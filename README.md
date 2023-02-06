@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">✨ Hi there 👋 i'm Akash patil ✨</h1>
+ 
+ ___
+🌱"I am currently learning techniques in data science."
+
+👯 I’m looking to collaborate on projects that involve data analysis, data visualization, and machine learning.
+
+Contact Information
+📫 How to reach me: Email me at aakashgolu1008@gmail.com
+
 
 <!--
 **akashpatil108/akashpatil108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
